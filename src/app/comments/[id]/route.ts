@@ -1,6 +1,6 @@
 import { Comments } from "../data"
 import { redirect } from "next/navigation";
-
+//updating the git 
 // to get the specific comments from the array
 export async function GET(
     _request : Request,
